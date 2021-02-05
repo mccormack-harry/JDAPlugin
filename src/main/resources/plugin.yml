@@ -1,0 +1,6 @@
+author: haz8989
+version: ${project.version}
+main: JDAPlugin
+name: JDA
+descrption: 'JDA dependency as a plugin'
+api-version: 1.16
