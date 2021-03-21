@@ -6,11 +6,11 @@
 
     <groupId>net.dv8tion</groupId>
     <artifactId>JDAPlugin</artifactId>
-    <version>4.2.0_227</version>
+    <version>4.2.0_244</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spigot.version>1.16.4-R0.1-SNAPSHOT</spigot.version>
+        <spigot.version>1.16.5-R0.1-SNAPSHOT</spigot.version>
     </properties>
 
     <build>
