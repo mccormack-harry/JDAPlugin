@@ -6,7 +6,7 @@
 
     <groupId>net.dv8tion</groupId>
     <artifactId>JDAPlugin</artifactId>
-    <version>4.2.0_244</version>
+    <version>5.0.0-alpha.11</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -55,11 +55,6 @@
         <repository>
             <id>spigot-repo</id>
             <url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
-        </repository>
-        <repository>
-            <id>jcenter</id>
-            <name>jcenter-bintray</name>
-            <url>https://jcenter.bintray.com</url>
         </repository>
     </repositories>
 
